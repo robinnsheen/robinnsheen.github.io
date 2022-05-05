@@ -13,21 +13,21 @@ header {
 .landing {
     background-image: url(https://picsum.photos/id/999/1920/1080/?blur);
     width: 100%;
-    height: 100vh;
+    height: 720px;
     background-size: cover;
 }
 
 .about {
     background-image: url(https://picsum.photos/id/916/1920/1080/?blur);
     width: 100%;
-    height: 100vh;
+    height: 720px;
     background-size: cover;
 }
 
 .projects {
     background-image: url(https://picsum.photos/id/980/1920/1080/?blur);
     width: 100%;
-    height: 100vh;
+    height: 720px;
     background-size: cover;
 }
 
