@@ -58,6 +58,19 @@ footer {
     width: 100%;
     height: 360;
     background-size: cover;
+    position: relative;
+    bottom: 0;
+}
+
+.illustrations {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://picsum.photos/id/980/1920/1080/?blur);
+    width: 100%;
+    height: 720px;
+    background-size: cover;
+}
+
+.illustrationspadding {
+    padding-top: 50px;
 }
 
 .padding {
@@ -77,8 +90,8 @@ a {
     border-radius: 50%;
 }
 
-.projectspadding {
-    padding-top: 50px;
+.projectimg {
+    height: 200px;
 }
 
 
